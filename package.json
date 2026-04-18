@@ -2,14 +2,18 @@
   "name": "sanjay-portfolio",
   "version": "1.0.0",
   "private": true,
+  "homepage": "https://sanjay072323.github.io/portfolio",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start"
+    "deploy": "gh-pages -d out"
   },
   "dependencies": {
     "next": "14.2.3",
     "react": "18.3.1",
     "react-dom": "18.3.1"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
   }
 }

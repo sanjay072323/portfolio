@@ -1,4 +1,4 @@
-// File: C:\Users\C-SQUARE\Downloads\sanjay-portfolio (1)\sanjay-portfolio\app\page.js
+// File: C:\Users\C-SQUARE\Desktop\portfolio\app\page.js
 import * as entry from '../../../app/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
